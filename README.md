@@ -8,7 +8,9 @@ To run this project, you must have installed a Pycharm on your PC (for Windows).
 After downloading the project you must follow the steps below:
 
 Step 1: Unzip the file or Extract the file
+
 Step 2: Double click the Bounce!+
+
 Step 3: Project is ready to run
 <!--
 **NagaStark/NagaStark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
